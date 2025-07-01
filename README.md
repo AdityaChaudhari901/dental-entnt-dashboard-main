@@ -1,6 +1,6 @@
 
 # 🏥 Dental Center Management System - Entnt Assignment
-
+Live Link: https://dental-management-system-alpha.vercel.app/
 ## ✨ Overview
 
 This project is a comprehensive web application developed for managing dental center operations. Its primary function is to provide role-based access for dental practice management, supporting both Administrators (Dentists) and Patients with tailored interfaces and functionality. The system enables efficient patient management, appointment scheduling, and medical record tracking through an intuitive web interface.
